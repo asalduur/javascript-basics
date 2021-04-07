@@ -4,11 +4,15 @@
 
 //Code here
 
+let myName = 'Ash Ketchum'
+
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
 
 //Code here
+
+let myAge = 10
 
 //////////////////PROBLEM 3////////////////////
 
@@ -16,17 +20,22 @@
 
 //Code here
 
+let lovesCode = true;
+
+
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
 //Code here
 
+let greatestFear = undefined;
+
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
-//Code here
+let devMountainGoal = null;
 
 //////////////////PROBLEM 6////////////////////
 
@@ -36,6 +45,10 @@
 //plus the value of the name parameter.
 
 //Code here
+
+function greeting(name) {
+  return 'Hello, ' + name
+}
 
 //////////////////PROBLEM 7////////////////////
 
